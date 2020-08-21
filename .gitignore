@@ -107,4 +107,9 @@ dist
 app.yaml
 
 #jetbrains
-.idea/*
+.idea/
+
+#venv
+bin/
+lib/
+pyvenv.cfg
